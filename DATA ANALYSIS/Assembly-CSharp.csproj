@@ -62,6 +62,7 @@
     <Compile Include="Assets\Script\SimpleJSONDotNetTypes.cs" />
     <Compile Include="Assets\Script\SimpleJSON.cs" />
     <Compile Include="Assets\Script\SimpleJSONUnity.cs" />
+    <Compile Include="Assets\Script\MyWorkScript.cs" />
     <Compile Include="Assets\Script\SimpleJSONBinary.cs" />
   </ItemGroup>
   <ItemGroup>
